@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-datepicker",
+  "description": "Meteor packaging of bootstrap-datepicker",
+  "homepage": "https://github.com/ianserlin/meteor-bootstrap-datepicker",
+  "author": "Ian Serlin (http://ianserlin.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/ianserlin/meteor-bootstrap-datepicker.git",
+  "packages": {}
+}
